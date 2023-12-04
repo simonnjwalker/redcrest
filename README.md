@@ -11,3 +11,8 @@ For free hosting, create an email account at proton.me then use this to sign up 
 # to download a copy
 git clone https://github.com/simonnjwalker/redcrest.git
 
+# to upload to your own git repo:
+git add .
+git commit -m "1.0.1 updated version message"
+git push
+
